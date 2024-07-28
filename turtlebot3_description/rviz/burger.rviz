@@ -114,11 +114,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        caster_back_link:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         wheel_left_link:
           Alpha: 1
           Show Axes: false
@@ -146,8 +141,6 @@ Visualization Manager:
           Value: true
         base_scan:
           Value: true
-        caster_back_link:
-          Value: true
         imu_link:
           Value: true
         odom:
@@ -166,8 +159,6 @@ Visualization Manager:
           base_footprint:
             base_link:
               base_scan:
-                {}
-              caster_back_link:
                 {}
               imu_link:
                 {}
